@@ -21,12 +21,12 @@ permalink: /archive-my-software/
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/archive-my-software/github/" class="button big">on GitHub</a></li>
+			<li><a href="https://cfa-library.github.io/citesoftware.org/archive-my-software/github/" class="button big">on GitHub</a></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/archive-my-software/misc/" class="button big">not on GitHub</a></li>
+			<li><a href="https://cfa-library.github.io/citesoftware.org/archive-my-software/misc/" class="button big">not on GitHub</a></li>
 		</ul>
 	</div>
 </div>
