@@ -24,7 +24,37 @@ permalink: /resources/
 					<th>Source</th>
 				</tr>
 			</thead>
-			<tbody>	
+			<tbody>
+				<tr>
+					<td><i>Software Citation Workshop Results</i></td>
+					<td>2022</td>
+					<td><a rel="resources" href="https://doi.org/10.3897/rio.8.e94250">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>Moving toward sustainable software citation practices to improve the quality of scientific research.</i></td>
+					<td>2022</td>
+					<td><a rel="resources" href="https://dx.doi.org/10.22503/inftars.XXII.2022.4.4">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>The Citation File Format: Growing up to enable better software citation</i></td>
+					<td>2022</td>
+					<td><a rel="resources" href="https://doi.org/10.5281/zenodo.7049934">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>CiteLang: Modeling the Research Software Ecosystem</i></td>
+					<td>2022</td>
+					<td><a rel="resources" href="https://doi.org/10.21105/joss.04458">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>“I Am Pretty Interested in Coding, Technology, and Infrastructure”</i></td>
+					<td>2022</td>
+					<td><a rel="resources" href="https://doi.org/10.1007/978-3-030-82606-2_10">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>Asclepias: Software Citations Enter the Scholarly Literature World</i></td>
+					<td>2022</td>
+					<td><a rel="resources" href="https://doi.org/10.3847/25c2cfeb.2906303c">DOI</a></td>
+				</tr>
 				<tr>
 					<td><i>Software Metadata Recommended Format Guide (SMRF)</i></td>
 					<td>2022</td>
