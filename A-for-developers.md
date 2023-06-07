@@ -21,12 +21,12 @@ permalink: /for-developers/
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/citation-file-formats/" class="button big">published</a></li>
+			<li><a href="https://cfa-library.github.io/citesoftware.org/citation-file-formats/" class="button big">published</a></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/unpublished-software" class="button big">unpublished</a></li>
+			<li><a href="https://cfa-library.github.io/citesoftware.org/unpublished-software" class="button big">unpublished</a></li>
 		</ul>
 	</div>
 	<h3><i>*It's not possible to count citations to unpublished software</i></h3>
