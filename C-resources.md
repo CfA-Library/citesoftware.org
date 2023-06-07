@@ -185,7 +185,12 @@ permalink: /resources/
 					<th>Website</th>
 				</tr>
 			</thead>
-			<tbody>	
+			<tbody>
+				<tr>
+					<td>Astrophysics Data System (ADS)</td>
+					<td>The SAO/NASA Astrophysics Data System is an online database of over 16 million astronomy and physics papers from both peer reviewed and non-peer reviewed sources.</td>
+					<td><a rel="resources" href="https://ui.adsabs.harvard.edu/">Link</a></td>
+				</tr>
 				<tr>
 					<td>Astrophysics Source Code Library (ASCL)</td>
 					<td>Online registry of scientist-written software used in astronomy or astrophysics research.</td>
