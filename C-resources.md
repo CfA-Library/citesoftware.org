@@ -36,14 +36,9 @@ permalink: /resources/
 					<td><a rel="resources" href="https://doi.org/10.22541/essoar.167252601.17695321/v1">DOI</a></td>
 				</tr>
 				<tr>
-					<td><i>Software Citation Workshop Results</i></td>
+					<td><i>Asclepias: Software Citations Enter the Scholarly Literature World</i></td>
 					<td>2022</td>
-					<td><a rel="resources" href="https://doi.org/10.3897/rio.8.e94250">DOI</a></td>
-				</tr>
-				<tr>
-					<td><i>Moving toward sustainable software citation practices to improve the quality of scientific research.</i></td>
-					<td>2022</td>
-					<td><a rel="resources" href="https://dx.doi.org/10.22503/inftars.XXII.2022.4.4">DOI</a></td>
+					<td><a rel="resources" href="https://doi.org/10.3847/25c2cfeb.2906303c">DOI</a></td>
 				</tr>
 				<tr>
 					<td><i>CiteLang: Modeling the Research Software Ecosystem</i></td>
@@ -56,9 +51,14 @@ permalink: /resources/
 					<td><a rel="resources" href="https://doi.org/10.1007/978-3-030-82606-2_10">DOI</a></td>
 				</tr>
 				<tr>
-					<td><i>Asclepias: Software Citations Enter the Scholarly Literature World</i></td>
+					<td><i>Moving toward sustainable software citation practices to improve the quality of scientific research.</i></td>
 					<td>2022</td>
-					<td><a rel="resources" href="https://doi.org/10.3847/25c2cfeb.2906303c">DOI</a></td>
+					<td><a rel="resources" href="https://dx.doi.org/10.22503/inftars.XXII.2022.4.4">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>Software Citation Workshop Results</i></td>
+					<td>2022</td>
+					<td><a rel="resources" href="https://doi.org/10.3897/rio.8.e94250">DOI</a></td>
 				</tr>
 				<tr>
 					<td><i>Software Metadata Recommended Format Guide (SMRF)</i></td>
