@@ -136,5 +136,148 @@ permalink: /resources/
 		</table>
 	</div>
 </div>
-
+<h3 id="content">Organizations and Projects Directory:</h3>
+		
+<div class="row">		
+	<div class="table-wrapper">
+		<table>
+			<thead>
+				<tr>
+					<th>Organization</th>
+					<th>Description</th>
+					<th>Website</th>
+				</tr>
+			</thead>
+			<tbody>	
+				<tr>
+					<td>Astrophysics Source Code Library (ASCL)</td>
+					<td>Online registry of scientist-written software used in astronomy or astrophysics research.</td>
+					<td><a rel="resources" href="https://ascl.net/">Link</a></td>
+				</tr>
+				<tr>
+					<td>CiteAs</td>
+					<td>An easy way for researchers to correctly cite the research software they use.</td>
+					<td><a rel="resources" href="https://citeas.org/">Link</a></td>
+				</tr>
+					<td>Citation File Format (CFF)</td>
+					<td>The Citation File Format lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines.</td>
+					<td><a rel="resources" href="https://citation-file-format.github.io/">Link</a></td>
+				</tr>
+				<tr>
+					<td>CLOCKSS</td>
+					<td>Community governed and supported digital preservation archive for scholarly content.</td>
+					<td><a rel="resources" href="https://clockss.org/">Link</a></td>
+				</tr>
+				<tr>
+				<tr>
+					<td>CodeMeta Project</td>
+					<td>The goal of CodeMeta is to create a concept vocabulary that can be used to standardize the exchange of software metadata across repositories and organizations.</td>
+					<td><a rel="resources" href="https://codemeta.github.io/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Crossref</td>
+					<td>Official digital object identifier Registration Agency of the International DOI Foundation.</td>
+					<td><a rel="resources" href="https://www.crossref.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Data Curation Network (DCN)</td>
+					<td>Community-led network of curators advancing open research by making data more ethical, reusable, and understandable.</td>
+					<td><a rel="resources" href="https://datacurationnetwork.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>DataCite</td>
+					<td>International not-for-profit organization which aims to improve data citation.</td>
+					<td><a rel="resources" href="https://datacite.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Dataverse Project</td>
+					<td>Open source web application to share, preserve, cite, explore, and analyze research data.</td>
+					<td><a rel="resources" href="https://dataverse.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>EaaSI Sandbox</td>
+					<td>Open Source Software Sandbox provides free, public access to emulated computer environments featuring operating systems and software from over twenty years of open source development.</td>
+					<td><a rel="resources" href="https://eaasi-sandbox.softwarepreservationnetwork.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Educopia Institute</td>
+					<td>Fosters collaborative activities between libraries, museums, and other cultural memory organizations to advance the production, dissemination, and preservation of digital scholarship and scholarly resources.</td>
+					<td><a rel="resources" href="https://educopia.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>FAIR4RS Working Group</td>
+					<td>Aims to enable coordination of existing community-led discussions on how to define and apply FAIR principles to research software, and achieve adoption of these principles.</td>
+					<td><a rel="resources" href="https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg">Link</a></td>
+				</tr>
+				<tr>
+					<td>FORCE11</td>
+					<td>Community of scholars, librarians, archivists, publishers and research funders that has arisen organically to help facilitate the change toward improved knowledge creation and sharing.</td>
+					<td><a rel="resources" href="https://force11.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Journal of Open Source Software (JOSS)</td>
+					<td>Peer-reviewed open-access scientific journal covering open-source software from any research discipline.</td>
+					<td><a rel="resources" href="https://joss.theoj.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>MetaArchive Cooperative</td>
+					<td>International digital preservation network composed of libraries, archives, and other memory institutions.</td>
+					<td><a rel="resources" href="https://metaarchive.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Netherlands eScience Center</td>
+					<td>The Netherlands eScience Center is the national center of excellence for the development and application of research software to advance academic research.</td>
+					<td><a rel="resources" href="https://www.esciencecenter.nl/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Research Data Alliance (RDA)</td>
+					<td>International organization focused on the development of infrastructure and community activities aimed to reduce barriers to data sharing and exchange, and promote the acceleration of data driven innovation worldwide.</td>
+					<td><a rel="resources" href="https://www.rd-alliance.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Research Resource Identification (RRID) Initiative</td>
+					<td>RRIDs help authors identify all ‘key biological resources’, support the proper citation and authentication of each resource, and enable the FAIR sharing of resource information.</td>
+					<td><a rel="resources" href="https://www.rrids.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Research Software Alliance (ReSA)</td>
+					<td>ReSA’s mission is to bring research software communities together to collaborate on the advancement of research software.</td>
+					<td><a rel="resources" href="https://www.researchsoft.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>SciCodes Consortium</td>
+					<td>Editors and maintainers of academic discipline and institutional software registries and repositories.</td>
+					<td><a rel="resources" href="https://scicodes.net/">Link</a></td>
+				</tr>
+				<tr>
+					<td>SciCrunch</td>
+					<td>Collaboratively edited knowledge base about scientific resources.</td>
+					<td><a rel="resources" href="https://scicrunch.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Software Heritage</td>
+					<td>The mission of Software Heritage is to collect, preserve and share all software that is publicly available in source code form, with the goal of building a common, shared infrastructure at the service of industry, research, culture and society as a whole.</td>
+					<td><a rel="resources" href="https://www.softwareheritage.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Software Preservation Network (SPN)</td>
+					<td>Leading organization established to facilitate and support software preservation efforts.</td>
+					<td><a rel="resources" href="https://www.softwarepreservationnetwork.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Software Sustainability Institute (SSI)</td>
+					<td>National facility for cultivating and improving research software to support world-class research, headquartered at the University of Edinburgh.</td>
+					<td><a rel="resources" href="https://www.software.ac.uk/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Zenodo</td>
+					<td>An open repository for all scholarship, enabling researchers from all disciplines to share and preserve their research outputs, regardless of size or format.</td>
+					<td><a rel="resources" href="https://zenodo.org/">Link</a></td>
+				</tr>
+			</tbody>
+			<tfoot>
+			</tfoot>
+		</table>
+	</div>
+</div>
 		
