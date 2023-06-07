@@ -136,6 +136,8 @@ permalink: /resources/
 		</table>
 	</div>
 </div>
+<br>
+
 <h3 id="content">Organizations and Projects Directory:</h3>
 		
 <div class="row">		
@@ -168,7 +170,6 @@ permalink: /resources/
 					<td>Community governed and supported digital preservation archive for scholarly content.</td>
 					<td><a rel="resources" href="https://clockss.org/">Link</a></td>
 				</tr>
-				<tr>
 				<tr>
 					<td>CodeMeta Project</td>
 					<td>The goal of CodeMeta is to create a concept vocabulary that can be used to standardize the exchange of software metadata across repositories and organizations.</td>
