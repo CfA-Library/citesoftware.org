@@ -30,7 +30,7 @@ permalink: /publisher-software-citation-policies/
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/bibtex/" class="button big">BibTeX</a></li>
+			<li><a href="https://cfa-library.github.io/citesoftware.org/bibtex/" class="button big">BibTeX</a></li>
 		</ul>
 	</div>
 </div>	
