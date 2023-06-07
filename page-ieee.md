@@ -21,12 +21,12 @@ permalink: /style-guides/ieee/
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/style-guides/ieee/in-text" class="button big">In-Text Citations</a></li>
+			<li><a href="https://cfa-library.github.io/citesoftware.org/style-guides/ieee/in-text" class="button big">In-Text Citations</a></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/style-guides/ieee/bibliography" class="button big">Bibliography / References</a></li>
+			<li><a href="https://cfa-library.github.io/citesoftware.org/style-guides/ieee/bibliography" class="button big">Bibliography / References</a></li>
 		</ul>
 	</div>
 
