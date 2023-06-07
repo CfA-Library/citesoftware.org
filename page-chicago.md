@@ -21,12 +21,12 @@ permalink: /style-guides/chicago/
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/style-guides/chicago/in-text" class="button big">In-Text Citations</a></li>
+			<li><a href="https://cfa-library.github.io/citesoftware.org/style-guides/chicago/in-text" class="button big">In-Text Citations</a></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/style-guides/chicago/bibliography" class="button big">Bibliography / References</a></li>
+			<li><a href="https://cfa-library.github.io/citesoftware.org/style-guides/chicago/bibliography" class="button big">Bibliography / References</a></li>
 		</ul>
 	</div>
 
