@@ -36,7 +36,7 @@ permalink: /archive-my-software/misc/
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/archive-my-software/misc/citation-file/" class="button big">next steps</a></li>
+			<li><a href="https://cfa-library.github.io/citesoftware.org/archive-my-software/misc/citation-file/" class="button big">next steps</a></li>
 		</ul>
 	</div>
 
