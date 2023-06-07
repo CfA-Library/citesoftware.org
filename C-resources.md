@@ -187,6 +187,11 @@ permalink: /resources/
 			</thead>
 			<tbody>
 				<tr>
+					<td>Asclepias Project</td>
+					<td>The Asclepias Project builds networks of citations between the astronomical academic literature and software, helping you find the tools to push your research forward.</td>
+					<td><a rel="resources" href="https://asclepias.aas.org/">Link</a></td>
+				</tr>
+				<tr>
 					<td>Astrophysics Data System (ADS)</td>
 					<td>The SAO/NASA Astrophysics Data System is an online database of over 16 million astronomy and physics papers from both peer reviewed and non-peer reviewed sources.</td>
 					<td><a rel="resources" href="https://ui.adsabs.harvard.edu/">Link</a></td>
