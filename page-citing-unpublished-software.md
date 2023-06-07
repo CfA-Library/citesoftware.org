@@ -21,7 +21,7 @@ permalink: /citing-unpublished-software/
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/citation-file-formats/" class="button big">citation file formats</a></li>
+			<li><a href="https://cfa-library.github.io/citesoftware.org/citation-file-formats/" class="button big">citation file formats</a></li>
 		</ul>
 	</div>
 	<h3 id="content"><i>*Reminder: It's not possible to count citations to unpublished software</i></h3>
